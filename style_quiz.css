@@ -1,0 +1,11 @@
+body {
+  color: #000000
+}
+.title{
+  padding: 10px;
+  background-color: #370458;
+  border-radius: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
